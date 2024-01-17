@@ -10,4 +10,4 @@ Slides / materials of my presentations:
 - Mystery Comet from Coorg
 
     This talk was given at the [Bangalore Astronomical Society](https://bas.org.in/) on Sunday, 28th April, 2013.
-    [YouTube](https://www.youtube.com/watch?v=6nowZLvYEzc)
+    [YouTube](https://www.youtube.com/watch?v=6nowZLvYEzc) |  [Slides](Mystery-Comet-Story-Sankar-Viswanathan-BAS-v04.pdf)
