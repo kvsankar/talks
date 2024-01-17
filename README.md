@@ -1,6 +1,6 @@
 # talks
 
-Slides / materials of my presentations:
+Slides / materials of my talks:
 
 - Chandrayaan 3: Mapping the Journey from Sriharikota to Shiv Shakti Point
   
