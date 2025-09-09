@@ -2,6 +2,11 @@
 
 Slides / materials of my talks:
 
+- Celestial Shadows: Unveiling the Depths of Lunar Eclipses
+
+  This online talk was hosted by the [Bangalore Astronomical Society](https://bas.org.in/) on Sunday, 7th September, 2025.
+    [YouTube](https://youtu.be/e5VdJuYHD0Q?t=442) | [Slides](Lunar-Eclipse-Sankar-Viswanathan-BAS-v1.pdf)
+  
 - Eclipses: A Game of Light and Shadows
   
     This talk was given at an AWE session (Astronomy Workshop for Everyone) from [Bangalore Astronomical Society](https://bas.org.in/)
