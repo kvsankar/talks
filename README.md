@@ -2,6 +2,12 @@
 
 Slides / materials of my talks:
 
+- Building a Lunar Mission: Chandrayaan 3 Orbit Design from First Principles
+
+    This talk was given at an AWE session (Astronomy Workshop for Everyone) from [Bangalore Astronomical Society](https://bas.org.in/)
+    on Saturday, 15th November, 2025 organized in collaboration with the [Jain School of Sciences](https://jainuniversity.ac.in/sos/). [Slides](https://github.com/kvsankar/talks/blob/main/Chandrayaan3-Sankar-Viswanathan-BAS-AWE2025-v3.pdf)
+
+
 - Celestial Shadows: Unveiling the Depths of Lunar Eclipses
 
   This online talk was hosted by the [Bangalore Astronomical Society](https://bas.org.in/) on Sunday, 7th September, 2025.
